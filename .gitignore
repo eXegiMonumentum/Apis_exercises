@@ -1,0 +1,18 @@
+credentials.json
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
+
+# Pliki Pythona
+*.pyc
+*.pyo
+__pycache__/
+
+# Wirtualne środowisko
+myenv/
+.env
+
+# Pliki edytorów
+.idea/
+.vscode/
